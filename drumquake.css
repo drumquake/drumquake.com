@@ -42,7 +42,8 @@ a:hover {
 aside {
     float: right;
     margin-top: 60px;
-    margin-left: 50px;
+    margin-left: 40px;
+    margin-right: 10px;
 }
  #kudo {
     font-family: sans-serif;
@@ -141,7 +142,8 @@ section {
     width: 440px;
     float: left;
     padding-top: 60px;
-    padding-right: 50px;
+    padding-right: 40px;
+    padding-left: 10px;
 }
 .audio {
     display: inline;

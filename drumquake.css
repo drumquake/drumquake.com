@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    max-width: 1000px;
+    max-width: 980px;
 }
 #logo {
     height: 100px;
@@ -42,7 +42,7 @@ a:hover {
 aside {
     float: right;
     margin-top: 60px;
-    margin-left: 60px;
+    margin-left: 50px;
 }
  #kudo {
     font-family: sans-serif;
@@ -124,7 +124,6 @@ footer {
     margin-bottom: 15px;
 }
 .text {
-    width: 440px;
     line-height: 20px;
     font-family: sans-serif;
     font-size: 15px;
@@ -139,9 +138,10 @@ footer {
     color: #676664;
 }
 section {
+    width: 440px;
     float: left;
     padding-top: 60px;
-    padding-right: 60px;
+    padding-right: 50px;
 }
 .audio {
     display: inline;
@@ -237,7 +237,6 @@ section {
 }
 .social_media_names {
     padding-top: 15px;
-    width: 440px;
     line-height: 20px;
     font-family: sans-serif;
     font-size: 15px;

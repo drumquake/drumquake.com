@@ -272,6 +272,9 @@ section {
     color: #676664;
     font-style: italic;
 }
+#blog_dates {
+  float: right;
+}
 .blog {
     line-height: 20px;
     font-family: sans-serif;

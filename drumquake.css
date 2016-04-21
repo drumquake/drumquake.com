@@ -282,6 +282,9 @@ section {
     color: #676664;
     padding-top: 15px;
 }
+.blog_images {
+  width: 100%;
+}
 audio {
   width: 100%;
   padding-bottom: 15px;

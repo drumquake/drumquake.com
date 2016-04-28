@@ -265,6 +265,17 @@ section {
     font-weight: bold;
     padding-bottom: 15px;
 }
+quote {
+  font-style: italic;
+}
+blockquote {
+	font-style: italic;
+	font-size: 17px; 
+        font-family: sans-serif;
+        color: #676664;
+	margin-bottom: 17px;
+	width: 75%;
+}
 .dates {
     line-height: 20px;
     font-family: sans-serif;
